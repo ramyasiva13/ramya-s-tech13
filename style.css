@@ -24,7 +24,7 @@ h1 {
 .footer {
   margin-bottom: 0;
   left: 0;
-  bottom: 0;
+  position: fixed;
   width: 100%;
   background-color: #A9A9A9;
   color: white;
@@ -63,5 +63,5 @@ th, td {
   font-weight: 400;
   padding: 20px;
   text-align: left;
-  width: 33.3333%;
+  width: 20%;
 }

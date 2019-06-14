@@ -65,3 +65,13 @@ th, td {
   text-align: left;
   width: 33.3333%;
 }
+
+button{
+  background-color: #006380;
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+  font-size: 20px;
+  color: white;
+  font-family: inherit;
+  }

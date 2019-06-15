@@ -1,4 +1,4 @@
-h1 {
+title {
 	color: #74D3E1;
 }
 .navbar {
@@ -79,3 +79,7 @@ button{
   ul{
   list-style-type: none;
 }
+
+h1{ 
+  color:#4682B4;
+ }
